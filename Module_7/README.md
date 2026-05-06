@@ -2,6 +2,10 @@
 
 A comprehensive MLOps production pipeline for travel price prediction, gender classification, and personalized hotel recommendations. This project demonstrates end-to-end machine learning lifecycle management—from training and tracking to deployment and orchestration.
 
+## Video Presentation Link: https://youtu.be/NpKPaLXKeXc
+
+## Goodle Document Link: https://docs.google.com/document/d/11i7AY4JOvMR-noppbbLoL5khR7R2ryHLi19W8qonTng/edit?usp=sharing
+
 ## 🚀 Key Features
 - **Flight Price Prediction**: Gradient Boosting regression for real-time price estimation.
 - **Gender Classification**: Predicts user gender based on travel behavior.
