@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: travel-api-deployment
+  labels:
+    app: travel-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: travel-api
+  template:
+    metadata:
+      labels:
+        app: travel-api
+    spec:
+      containers:
+      - name: travel-api
+        image: travel-api:latest
+        ports:
+        - containerPort: 5001
+        resources:
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+          requests:
+            cpu: "250m"
+            memory: "256Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: travel-api-service
+spec:
+  selector:
+    app: travel-api
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5001
+  type: LoadBalancer
