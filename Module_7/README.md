@@ -4,7 +4,7 @@ A comprehensive MLOps production pipeline for travel price prediction, gender cl
 
 ## Video Presentation Link: https://youtu.be/NpKPaLXKeXc
 
-## Goodle Document Link: https://docs.google.com/document/d/11i7AY4JOvMR-noppbbLoL5khR7R2ryHLi19W8qonTng/edit?usp=sharing
+## Google Document Link: https://docs.google.com/document/d/11i7AY4JOvMR-noppbbLoL5khR7R2ryHLi19W8qonTng/edit?usp=sharing
 
 ## 🚀 Key Features
 - **Flight Price Prediction**: Gradient Boosting regression for real-time price estimation.
