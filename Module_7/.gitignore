@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.joblib
+*.pyc
+.DS_Store
+mlruns/
+airflow/
+*.csv
+.ipynb_checkpoints/

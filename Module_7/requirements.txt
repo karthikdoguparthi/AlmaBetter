@@ -1,0 +1,13 @@
+flask
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+imbalanced-learn
+mlflow
+scipy
+apache-airflow
+ipython
