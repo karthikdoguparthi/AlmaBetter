@@ -98,3 +98,8 @@ streamlit run streamlit_app.py --server.port 8000
 
 Once the server initializes, open your web browser and navigate to:  
 👉 **http://localhost:8000**
+
+---
+<div align="center">
+  <i>Developed by Karthik Doguparthi for the AlmaBetter Data Science curriculum.</i>
+</div>
