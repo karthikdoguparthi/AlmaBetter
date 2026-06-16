@@ -4,6 +4,7 @@
 **Contribution:** Individual  
 **Team Member:** Karthik Doguparthi  
 **GitHub Link:** [Module_11](https://github.com/karthikdoguparthi/AlmaBetter/tree/main/Module_11)
+**Dataset:** [Face Emotion Recognition Dataset](https://drive.google.com/file/d/1WxFwPgUTPHAIgXHVuPntH9pXQGiKda6F/view)
 
 ## Project Summary
 
