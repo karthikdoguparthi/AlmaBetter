@@ -3,6 +3,9 @@
 A fine-tuned travel chatbot built on **Phi-3 Mini** with **Retrieval-Augmented Generation (RAG)** using a Wikivoyage knowledge base. Built as a college capstone project.
 
 ---
+**Drive Link:** [Google Drive](https://drive.google.com/drive/folders/1JZpWVC6K2RQamoGHcLQ5nHKv7FmjiFgc?usp=drive_link)
+
+---
 
 ## Architecture
 
