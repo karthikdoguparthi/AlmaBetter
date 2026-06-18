@@ -3,15 +3,7 @@
 # 🎯 CSAT Predictor AI
   
 **Real-time Customer Satisfaction Scoring using Deep Learning & XGBoost**
-
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A robust, enterprise-grade machine learning application designed to predict and optimize Customer Satisfaction (CSAT) scores for e-commerce interactions. 
-
-[Explore Features](#-features) • [Installation](#-installation--setup) • [Usage](#-running-the-application) • [Architecture](#-repository-structure)
 
 </div>
 
