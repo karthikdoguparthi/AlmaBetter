@@ -49,4 +49,4 @@ The goal is to accurately classify a given facial image into one of seven discre
 - Inter-class confusion (e.g., 'fear' vs. 'surprise' often share similar facial features like raised eyebrows)
 - Variable lighting, occlusions, and varied poses
 
-Traditional handcrafted approaches often fail to generalize well on these tasks. This project overcomes these limitations by leveraging the power of CNNs and Transfer Learning to learn robust, hierarchical features directly from the image pixels.
+Traditional handcrafted approaches often fail to generalize well on these tasks. This project overcomes these limitations by leveraging the power of CNNs and Transfer Learning to learn robust, hierarchical features directly from image pixels.
