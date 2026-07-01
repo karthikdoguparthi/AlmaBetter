@@ -148,7 +148,7 @@ Sample responses (no RAG):
 
 - Hotel booking and refund questions rely on fine-tuned knowledge only (Wikivoyage does not cover booking platforms or refund procedures)
 - RAG retrieval quality depends on query-article semantic overlap; abstract questions retrieve weakly
-- Model responses are generated, not verified — always cross-check travel information
+- Model responses are generated, not verified and always cross-check travel information
 
 ---
 
